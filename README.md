@@ -1,1 +1,1 @@
-# second-dp-project
+# dp-first-project
